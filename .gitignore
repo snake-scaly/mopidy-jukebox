@@ -43,3 +43,14 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Python
+*.pyc
+/.coverage
+/.mypy_cache/
+/.pytest_cache/
+/.tox/
+/*.egg-info
+/build/
+/dist/
+/MANIFEST
